@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Boxes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1 class="b1">Gym website!</h1>
+    <h2 class="b2">Excersise</h2>
+    <span>.biceps</span><br>
+    <span>.legs</span><br>
+    <span>.chest</span><br>
+    <h2 class="b3">Diet</h2>
+    <span>1.panner</span><br>
+    <span>2.soya</span><br>
+</body>
+</html>
+
+
+#external code
+
+
+
+
+.b1{
+    background-color: aquamarine;
+
+}
+.b2{
+    background-color: bisque;
+}
+.b3{
+    background-color:burlywood;
+    
+}
+
